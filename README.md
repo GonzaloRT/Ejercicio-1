@@ -1,10 +1,6 @@
 Test Software Developer
 **************
- 
-Introducción	2
-Herramientas	2
-Ejercicios	2
- 
+
 Introducción
 El ejercicio trata de dar evidencia de las capacidades de análisis, diseño, y conocimientos en las tecnologías de interés.
 Herramientas
@@ -45,8 +41,8 @@ Caso de uso "Pagos de residentes"
 1.El empleado elige la opción "genera informe de pagos de residentes" e introduce el nombre del archivo en el que quiere generar el informe.
 2.La aplicación genera un archivo que detalla el tiempo estacionado y el dinero a pagar por cada uno de los vehículos de residentes. El formato del archivo será el mostrado a continuación:
  
-
 La aplicación contará con un programa principal basado en un menú que permitirá al empleado interactuar con la aplicación (dicho programa principal no forma parte de este ejercicio).
+
 Persistencia de datos
 La información de cada una de las estancias de los vehículos será almacenada en una base de datos. Debido a que el manejador de base de datos puede ser modificado en cualquier momento, se utilizará Hibernate como ORM.
 Puntos que se deben desarrollar
